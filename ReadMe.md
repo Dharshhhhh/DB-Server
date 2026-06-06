@@ -98,17 +98,20 @@ This ensures secure access to the database server.
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
+<img width="1888" height="549" alt="image" src="https://github.com/user-attachments/assets/eab5140a-aa3f-4b78-88e1-f8cb01060a32" />
 
 
 ---
 
 ### Screenshot 2: Database Service Running
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/155cb751-c687-40e7-baab-7b20b9e05596" />
 
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/49ba8a78-f251-488a-8dc5-809e849d54bc" />
 
 ---
 
